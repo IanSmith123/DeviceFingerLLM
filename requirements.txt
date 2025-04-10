@@ -1,0 +1,10 @@
+tqdm
+scipy==1.12.0
+seaborn
+matplotlib
+ipip-datx
+torch
+wandb
+scikit-learn
+datasets # huggingface
+transformers
